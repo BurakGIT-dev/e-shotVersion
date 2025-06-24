@@ -1,5 +1,10 @@
 {
   "version": "3.9.9.80",
   "url": "https://github.com/kullaniciadi/e-shotVersion/releases/download/v3.9.80/update.zip",
-  "releaseNotes": "• Başlangıç hatası (Görsel Sorun oluştu.) düzeltildi.\n• Otomatik güncelleyici eklendi"
+  "releaseNotes":
+  {
+    "tr":"• Başlangıç hatası (Görsel Sorun oluştu.) düzeltildi.\n• Otomatik güncelleyici eklendi",
+    "en":"• Startup error (visual issue) has been fixed.\n• Auto-updater has been added.",
+    "ru":"• Исправлена ошибка при запуске (проблема с отображением).\n• Добавлен автоматический обновлятор."
+  }
 }
